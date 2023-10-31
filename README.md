@@ -1,7 +1,9 @@
 # P.O.
-![imgB](https://blog-gestion-de-projet.com/wp-content/uploads/2021/11/chef-de-projet-efficace.png.webp)
 
 ![img1](https://m.media-amazon.com/images/I/714TTzWhnAL.jpg)
+
+![imgB](https://blog-gestion-de-projet.com/wp-content/uploads/2021/11/chef-de-projet-efficace.png.webp)
+
 
 ![imga](https://blog-gestion-de-projet.com/wp-content/uploads/2020/06/Le-triangle-dor-du-projet.png.webp)
 
