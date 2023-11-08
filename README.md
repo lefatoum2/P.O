@@ -13,3 +13,8 @@
 ![img2](https://blog-gestion-de-projet.com/wp-content/uploads/2022/03/raci-definition.png.webp)
 
 ![img3](https://blog-gestion-de-projet.com/wp-content/uploads/2021/07/matrice-RACI.jpg.webp)
+
+## La verbosité 
+
+Indique la fonction permettant de définir plusieurs niveaux d'informations, allant de discret à " bavard", donc détaillé
+
